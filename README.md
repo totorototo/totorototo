@@ -4,7 +4,7 @@ I'm a developer passionate about building tools that bridge the gap between tech
 
 ### 🏔️ What I'm working on
 - **[Ultra Buddy](https://github.com/totorototo/ultra-buddy)**: A PWA for trail runners to track progress and elevation.
-- **[Terminus](https://github.com/totorototo/terminus)**: A web-based terminal emulator built with React and TypeScript.
+- **[Terminus](https://github.com/totorototo/terminus)**: High-performance GPS route analysis and 3D visualization tool. 
 - **[Positic](https://github.com/totorototo/positic)**: Geo-positioning helper libraries in TypeScript and Rust.
 - **[Lybitos-Strava](https://github.com/totorototo/strava)**: React Native mobile app for Strava enthusiasts.
 
