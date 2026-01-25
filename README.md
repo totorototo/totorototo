@@ -13,9 +13,6 @@ I'm a developer passionate about building tools that bridge the gap between tech
 - **Frameworks:** React, React Native, Apollo, Rust-Wasm
 - **Interests:** Systems Programming, Geospatial Data, Sports Tech, Functional Programming
 
-### 📊 Stats & Activity
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=totorototo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totorototo&layout=compact&theme=radical)
 
 ---
 *“If it involves a GPX file and a mountain—or low-level memory management—I'm probably interested.”*
