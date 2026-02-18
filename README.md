@@ -1,6 +1,6 @@
 # Hi there, I'm Thomas 👋
 
-I'm a developer passionate about building tools that bridge the gap between technology and the outdoors. I work across the full stack—from polished frontend experiences (React, React Native) to systems-level work (geospatial libraries, low-level terminal emulators). I enjoy solving problems that require both precision and performance.
+I'm a developer passionate about building tools that bridge the gap between technology and the outdoors. I work across the full stack—from polished frontend experiences (React, React Native) to systems-level work (geospatial libraries, ...). I enjoy solving problems that require both precision and performance.
 
 ### 🏔️ What I'm building
 - 🔨 **[Ultra Buddy](https://github.com/totorototo/ultra-buddy)**: PWA for trail runners to track progress and elevation.
