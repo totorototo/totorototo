@@ -5,8 +5,8 @@ I'm a developer passionate about building tools that bridge the gap between tech
 ### 🏔️ What I'm building
 A plan → run → analyze toolchain for ultra trail running:
 - 🔨 **[Terminus](https://github.com/totorototo/terminus)**: Race intelligence PWA. GPS route analysis, effort modelling (Minetti), offline maps, live tracking and 3D visualization, on a Zig/WASM core.
-- 🔨 **Retrace**: Plan-vs-actual race analysis PWA. Compares a predicted plan (GPX) with the executed run (FIT).
-- 🔨 **Waymark**: Edit a race director's GPX, pin waypoints and cut-offs on a map, export an extended GPX.
+- 🔨 **[Retrace](https://github.com/totorototo/retrace)**: Plan-vs-actual race analysis PWA. Compares a predicted plan (GPX) with the executed run (FIT).
+- 🔨 **[Waymark](https://github.com/totorototo/waymark)**: Edit a race director's GPX, pin waypoints and cut-offs on a map, export an extended GPX.
 
 Zig libraries powering them:
 - ✅ **[gpxz](https://github.com/totorototo/gpxz)**: GPX analytics and plan library + CLI.
@@ -23,7 +23,7 @@ Earlier work:
 - **Interests:** Full-stack Development, Frontend Architecture, Systems Programming, Geospatial Data, Sports Tech, Functional Programming
 
 ### 🌱 Currently exploring
-- Zig 0.16: allocators, comptime, build.zig
+- Zig 0.17: allocators, comptime, build.zig
 - Zig → WASM in web workers for geospatial and file-parsing performance
 - Terrain overlays (runnability, daylight, exposure) from GPS traces and DEMs
 
